@@ -1,0 +1,33 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+env/
+venv/
+ENV/
+
+# VSCode settings (optional, kalau pakai VSCode)
+.vscode/
+
+# Data files (optional, tergantung project kamu)
+*.csv
+*.h5
+*.pkl
+*.joblib
+*.npy
+
+# Model weights
+*.pt
+*.pth
+*.hdf5
+
+# Environment files backup
+*.env
+
+# MacOS files
+.DS_Store
