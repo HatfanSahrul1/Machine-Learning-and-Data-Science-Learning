@@ -15,7 +15,7 @@ ENV/
 .vscode/
 
 # Data files (optional, tergantung project kamu)
-*.csv
+# *.csv
 *.h5
 *.pkl
 *.joblib
