@@ -31,3 +31,5 @@ ENV/
 
 # MacOS files
 .DS_Store
+
+**/exported*
